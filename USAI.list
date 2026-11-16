@@ -1,0 +1,15 @@
+# 美国AI补充名单（Kelee AI.lsr 未覆盖的美国AI服务）策略在 Loon 订阅时选 美国Auto
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,lumalabs.ai
+DOMAIN-SUFFIX,pika.art
+DOMAIN-SUFFIX,heygen.com
+DOMAIN-SUFFIX,you.com

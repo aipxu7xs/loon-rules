@@ -4,7 +4,7 @@ Loon 远程规则仓库，由 Muse 为 sksn 维护。规则文件只写域名/IP
 
 ## LINE.list
 
-让 LINE 走日本节点，解决 LINE 登录走错节点的问题。
+让 LINE 走香港节点（账号绑定 +852 香港号码，地区要对上）。
 
 订阅地址（raw）：
 https://raw.githubusercontent.com/aipxu7xs/loon-rules/main/LINE.list
@@ -12,6 +12,14 @@ https://raw.githubusercontent.com/aipxu7xs/loon-rules/main/LINE.list
 在 Loon 里添加：
 1. 打开 Loon → 配置 → 规则 → 远程规则 → 添加
 2. URL 粘贴上面的 raw 地址
-3. 策略（policy）选择你的日本节点/日本策略组
+3. 策略（policy）选择香港Auto
 4. 标签（tag）写 LINE，启用
-5. 保存后重启 Loon，LINE 强退后重新登录
+
+## USAI.list
+
+美国 AI 补充名单：Kelee 的 AI.lsr 没覆盖到的美国 AI 服务（Poe、Character.AI、Midjourney、Runway、Suno、ElevenLabs、Hugging Face、Cursor、Replicate、Luma、Pika、HeyGen、You.com），统一走美国节点。
+
+订阅地址（raw）：
+https://raw.githubusercontent.com/aipxu7xs/loon-rules/main/USAI.list
+
+添加方式同上，策略（policy）选择美国Auto，标签（tag）写 USAI。
