@@ -1,0 +1,9 @@
+# LINE for Loon (remote rule, policy is chosen in Loon when subscribing)
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,linecorp.com
+DOMAIN-SUFFIX,line.biz
+IP-CIDR,147.92.0.0/16,no-resolve
+IP-CIDR,203.104.128.0/19,no-resolve
