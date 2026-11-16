@@ -1,0 +1,5 @@
+# 必应全家统一走香港（策略在 Loon 订阅时选 香港Auto）解决被 AI 规则和微软规则拆成两个地区导致的网络错误
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bing.com.cn

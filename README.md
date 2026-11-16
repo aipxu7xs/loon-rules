@@ -23,3 +23,12 @@ https://raw.githubusercontent.com/aipxu7xs/loon-rules/main/LINE.list
 https://raw.githubusercontent.com/aipxu7xs/loon-rules/main/USAI.list
 
 添加方式同上，策略（policy）选择美国Auto，标签（tag）写 USAI。
+
+## BING.list
+
+必应全家（bing.com / bingapis.com / bing.net / bing.com.cn）统一走香港节点。原因：必应原本被拆开 — www.bing.com 被 AI 规则带去美国、其余子域名被微软规则带去基础代理，两个出口地区导致必应老报“网络出现问题”。此表在配置里排在 AI 规则之前，先命中先赢。
+
+订阅地址（raw）：
+https://raw.githubusercontent.com/aipxu7xs/loon-rules/main/BING.list
+
+添加方式同上，策略（policy）选择香港Auto，标签（tag）写 Bing。
